@@ -4,6 +4,7 @@
   font-family: "poppins", sans-serif;
   box-sizing: border-box;
 }
+/* personal card css starts from here */
 .container {
   width: 10%;
   min-height: 50vh;
@@ -90,3 +91,4 @@
     font-weight: 600;
   }
 }
+/* personal portfolio card  css ends here */
